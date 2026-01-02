@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NYTHERAAMD&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYTHERAAMD&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 🌍 Find Me
 
 <p align="center">
-  <a href="https://github.com/TON_PSEUDO_GITHUB">
+  <a href="https://github.com/NYTHERAAMD">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://discord.gg/TON_SERVEUR">
