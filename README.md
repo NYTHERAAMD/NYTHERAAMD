@@ -62,6 +62,22 @@
 
 ---
 
+## 🏷️ Naming Convention
+
+My repositories follow a strict naming convention to identify the project type:
+
+| Prefix | Type | Example |
+| :--- | :--- | :--- |
+| **`RB-`** | 🧱 **Roblox Project** | `RB-TD_AMADEUSE` |
+| **`AN-`** | 📱 **Android App** | `AN-MUSIQUE_AMADEUSE` |
+| **`WEB-`** | 🌐 **Web Project** | `WEB-AMADEUSE_WEB` |
+| **`IA-`** | 🧠 **AI Agent** | `IA-AGENT_AMADEUSE` |
+| **`JS-`** | 🤖 **Node.js / Bot** | `JS-BOT_AMADEUSE` |
+| **`SYS-`** | 🔧 **System / Script** | `SYS-SCRIPTS_AMADEUSE` |
+| **`DOC-`** | 📚 **Documentation** | `DOC-AMADEUSE_DOCS` |
+
+---
+
 ## 🌍 Find Me
 
 <p align="center">
